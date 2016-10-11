@@ -1,0 +1,1 @@
+47;Self-emp-not-inc;173938;Prof-school;15;Never-married;Prof-specialty;Not-in-family;White;Male;0;2258;20;United-States;<=50K

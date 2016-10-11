@@ -1,0 +1,2 @@
+19;?;155863;Some-college;10;Never-married;?;Own-child;White;Female;0;1602;30;United-States;<=50K
+20;?;301408;Some-college;10;Never-married;?;Own-child;White;Female;0;1602;30;United-States;<=50K

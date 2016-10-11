@@ -1,0 +1,2 @@
+44;Self-emp-not-inc;242434;Bachelors;13;Divorced;Sales;Not-in-family;White;Female;27828;0;60;United-States;>50K
+47;Private;131160;Bachelors;13;Divorced;Other-service;Not-in-family;White;Female;99999;0;40;United-States;>50K

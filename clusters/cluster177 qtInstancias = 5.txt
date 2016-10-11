@@ -1,0 +1,5 @@
+23;?;213004;Some-college;10;Never-married;?;Own-child;White;Female;0;1719;30;United-States;<=50K
+20;Private;37894;Some-college;10;Never-married;Adm-clerical;Own-child;White;Female;0;1719;30;United-States;<=50K
+21;?;202214;Some-college;10;Never-married;?;Own-child;White;Female;0;1721;40;United-States;<=50K
+19;Private;124906;Some-college;10;Never-married;Adm-clerical;Own-child;White;Female;0;1719;25;United-States;<=50K
+90;Private;347074;Some-college;10;Never-married;Adm-clerical;Own-child;White;Female;0;1944;12;United-States;<=50K

@@ -1,0 +1,1 @@
+40;Self-emp-not-inc;184804;Masters;14;Divorced;Prof-specialty;Not-in-family;White;Female;0;2205;45;United-States;<=50K

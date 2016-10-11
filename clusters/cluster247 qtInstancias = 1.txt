@@ -1,0 +1,1 @@
+45;Self-emp-inc;208049;Assoc-acdm;12;Divorced;Exec-managerial;Not-in-family;White;Female;0;1590;40;United-States;<=50K

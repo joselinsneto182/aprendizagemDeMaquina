@@ -1,0 +1,1 @@
+32;Private;242654;Some-college;10;Divorced;Sales;Unmarried;Black;Female;0;1138;40;Honduras;<=50K

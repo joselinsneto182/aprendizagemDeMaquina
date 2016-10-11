@@ -1,0 +1,1 @@
+25;Federal-gov;198813;Bachelors;13;Never-married;Adm-clerical;Unmarried;Black;Female;0;1590;40;United-States;<=50K

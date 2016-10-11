@@ -1,0 +1,1 @@
+25;State-gov;154610;Bachelors;13;Married-spouse-absent;Handlers-cleaners;Not-in-family;White;Female;0;1719;15;United-States;<=50K

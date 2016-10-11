@@ -1,0 +1,3 @@
+18;?;98549;HS-grad;9;Never-married;?;Own-child;White;Female;0;1602;35;United-States;<=50K
+20;Private;190916;HS-grad;9;Never-married;Other-service;Own-child;White;Female;0;1721;20;United-States;<=50K
+19;Private;156618;HS-grad;9;Never-married;Other-service;Own-child;White;Female;0;1602;20;United-States;<=50K

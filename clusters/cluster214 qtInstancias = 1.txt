@@ -1,0 +1,1 @@
+40;Private;132633;Some-college;10;Divorced;Sales;Unmarried;White;Female;0;1741;40;United-States;<=50K

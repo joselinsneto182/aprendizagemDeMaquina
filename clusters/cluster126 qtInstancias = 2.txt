@@ -1,0 +1,2 @@
+26;?;104756;HS-grad;9;Married-AF-spouse;?;Wife;White;Female;0;1651;42;United-States;<=50K
+27;Private;184493;HS-grad;9;Separated;Handlers-cleaners;Own-child;White;Female;0;1594;25;United-States;<=50K

@@ -1,0 +1,1 @@
+47;Private;50092;Bachelors;13;Divorced;Exec-managerial;Unmarried;Other;Male;0;1138;40;United-States;<=50K

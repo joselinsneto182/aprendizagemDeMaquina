@@ -1,0 +1,1 @@
+24;Private;162958;Assoc-acdm;12;Never-married;Prof-specialty;Not-in-family;White;Male;0;1980;50;United-States;<=50K

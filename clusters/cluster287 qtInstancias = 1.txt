@@ -1,0 +1,1 @@
+45;Self-emp-not-inc;181307;Doctorate;16;Separated;Prof-specialty;Not-in-family;White;Male;0;1408;40;United-States;<=50K

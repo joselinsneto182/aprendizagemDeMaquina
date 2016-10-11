@@ -1,0 +1,1 @@
+35;Local-gov;26987;Bachelors;13;Never-married;Prof-specialty;Not-in-family;White;Female;0;1876;45;United-States;<=50K

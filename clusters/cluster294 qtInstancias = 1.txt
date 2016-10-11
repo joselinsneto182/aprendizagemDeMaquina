@@ -1,0 +1,1 @@
+33;Self-emp-not-inc;188246;Bachelors;13;Divorced;Craft-repair;Not-in-family;White;Male;0;1590;60;United-States;<=50K

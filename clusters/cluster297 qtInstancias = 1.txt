@@ -1,0 +1,1 @@
+42;State-gov;214781;Bachelors;13;Never-married;Prof-specialty;Unmarried;White;Male;0;1876;38;United-States;<=50K

@@ -1,0 +1,2 @@
+28;?;375703;HS-grad;9;Divorced;?;Other-relative;Black;Female;0;1721;40;United-States;<=50K
+40;Private;158275;HS-grad;9;Divorced;Adm-clerical;Unmarried;Black;Female;0;625;40;United-States;<=50K

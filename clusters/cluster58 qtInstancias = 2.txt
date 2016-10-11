@@ -1,0 +1,2 @@
+27;Local-gov;24988;Assoc-voc;11;Never-married;Tech-support;Not-in-family;White;Female;0;1564;72;United-States;>50K
+25;?;182810;Some-college;10;Never-married;?;Not-in-family;White;Female;0;1564;37;United-States;>50K

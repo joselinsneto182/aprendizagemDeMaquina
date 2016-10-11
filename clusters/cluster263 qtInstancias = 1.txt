@@ -1,0 +1,1 @@
+32;Self-emp-not-inc;399088;Bachelors;13;Divorced;Prof-specialty;Not-in-family;White;Female;0;1340;45;United-States;<=50K

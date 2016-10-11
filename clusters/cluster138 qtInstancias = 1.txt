@@ -1,0 +1,1 @@
+23;Private;335439;Bachelors;13;Never-married;Sales;Not-in-family;White;Female;0;1741;50;United-States;<=50K

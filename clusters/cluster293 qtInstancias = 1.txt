@@ -1,0 +1,1 @@
+31;Self-emp-not-inc;213643;Masters;14;Divorced;Prof-specialty;Not-in-family;White;Male;0;1590;60;United-States;<=50K

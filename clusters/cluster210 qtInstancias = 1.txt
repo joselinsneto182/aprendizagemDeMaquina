@@ -1,0 +1,1 @@
+32;Private;281219;Assoc-voc;11;Divorced;Sales;Unmarried;White;Female;0;1380;40;United-States;<=50K

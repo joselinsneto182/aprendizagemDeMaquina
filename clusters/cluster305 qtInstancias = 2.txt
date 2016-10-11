@@ -1,0 +1,2 @@
+25;?;180246;Bachelors;13;Never-married;?;Not-in-family;White;Male;0;1408;40;United-States;<=50K
+37;Federal-gov;188563;Masters;14;Never-married;Prof-specialty;Not-in-family;White;Male;0;1876;40;United-States;<=50K

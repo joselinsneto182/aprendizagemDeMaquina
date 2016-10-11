@@ -1,0 +1,2 @@
+43;Federal-gov;117022;Assoc-voc;11;Divorced;Handlers-cleaners;Unmarried;Black;Male;0;1726;40;United-States;<=50K
+42;Federal-gov;125461;Assoc-voc;11;Divorced;Exec-managerial;Unmarried;White;Male;0;323;40;United-States;<=50K

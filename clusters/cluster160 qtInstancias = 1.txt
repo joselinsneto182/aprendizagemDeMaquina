@@ -1,0 +1,1 @@
+40;Private;197609;Some-college;10;Never-married;Exec-managerial;Not-in-family;White;Female;0;1340;40;United-States;<=50K

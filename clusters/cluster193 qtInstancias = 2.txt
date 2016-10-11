@@ -1,0 +1,2 @@
+37;Private;121228;HS-grad;9;Divorced;Machine-op-inspct;Unmarried;White;Male;0;1726;50;United-States;<=50K
+62;Private;84784;HS-grad;9;Divorced;Machine-op-inspct;Unmarried;White;Male;0;1741;40;United-States;<=50K

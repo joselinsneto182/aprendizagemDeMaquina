@@ -1,0 +1,1 @@
+45;Private;302677;Some-college;10;Never-married;Exec-managerial;Not-in-family;White;Female;0;1340;50;United-States;<=50K

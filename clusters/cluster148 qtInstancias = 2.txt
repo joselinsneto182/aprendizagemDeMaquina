@@ -1,0 +1,2 @@
+22;?;96844;Some-college;10;Never-married;?;Not-in-family;White;Female;0;1602;20;United-States;<=50K
+22;?;216639;Some-college;10;Never-married;?;Not-in-family;White;Female;0;1974;40;United-States;<=50K

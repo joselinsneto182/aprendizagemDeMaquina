@@ -1,0 +1,1 @@
+41;State-gov;92717;Some-college;10;Never-married;Adm-clerical;Unmarried;Black;Female;0;1504;40;United-States;<=50K

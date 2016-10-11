@@ -1,0 +1,1 @@
+56;State-gov;104447;Some-college;10;Divorced;Adm-clerical;Not-in-family;White;Female;0;2339;40;United-States;<=50K

@@ -1,0 +1,1 @@
+25;Private;355124;HS-grad;9;Never-married;Machine-op-inspct;Not-in-family;White;Female;0;2001;40;Mexico;<=50K

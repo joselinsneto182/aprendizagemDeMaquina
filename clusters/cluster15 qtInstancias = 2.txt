@@ -1,0 +1,2 @@
+41;Private;135056;Masters;14;Widowed;Prof-specialty;Not-in-family;White;Female;10520;0;38;United-States;>50K
+51;Private;103995;Doctorate;16;Widowed;Prof-specialty;Not-in-family;White;Female;10520;0;60;United-States;>50K

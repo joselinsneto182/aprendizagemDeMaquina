@@ -1,0 +1,3 @@
+69;Private;188643;HS-grad;9;Widowed;Adm-clerical;Not-in-family;White;Female;0;1429;30;United-States;<=50K
+58;Private;104476;Some-college;10;Separated;Adm-clerical;Not-in-family;White;Female;0;1092;40;United-States;<=50K
+49;Private;169180;HS-grad;9;Widowed;Adm-clerical;Not-in-family;White;Female;0;1876;35;United-States;<=50K

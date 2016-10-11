@@ -1,0 +1,2 @@
+50;Self-emp-not-inc;203004;HS-grad;9;Divorced;Exec-managerial;Not-in-family;White;Female;99999;0;60;United-States;>50K
+51;Self-emp-not-inc;85877;HS-grad;9;Divorced;Exec-managerial;Not-in-family;White;Female;99999;0;60;United-States;>50K

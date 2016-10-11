@@ -1,0 +1,2 @@
+57;Private;255406;HS-grad;9;Divorced;Craft-repair;Not-in-family;White;Female;0;1980;44;United-States;<=50K
+64;Private;45776;HS-grad;9;Divorced;Other-service;Not-in-family;White;Female;0;1762;79;United-States;<=50K

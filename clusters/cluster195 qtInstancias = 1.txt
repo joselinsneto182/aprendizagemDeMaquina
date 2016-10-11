@@ -1,0 +1,1 @@
+44;Private;67874;Some-college;10;Divorced;Sales;Unmarried;White;Male;0;625;50;United-States;<=50K

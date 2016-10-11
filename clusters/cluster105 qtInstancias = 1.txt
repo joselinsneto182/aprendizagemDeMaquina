@@ -1,0 +1,1 @@
+23;State-gov;89285;Some-college;10;Never-married;Protective-serv;Not-in-family;Other;Female;99999;0;40;United-States;>50K

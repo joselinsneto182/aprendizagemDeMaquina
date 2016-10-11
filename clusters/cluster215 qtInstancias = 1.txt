@@ -1,0 +1,1 @@
+64;Private;344014;Some-college;10;Divorced;Tech-support;Unmarried;Black;Female;0;1741;40;United-States;<=50K

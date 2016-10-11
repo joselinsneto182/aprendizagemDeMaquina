@@ -1,0 +1,2 @@
+55;Private;109015;Bachelors;13;Divorced;Exec-managerial;Not-in-family;White;Female;0;1876;40;United-States;<=50K
+53;Private;23686;Bachelors;13;Divorced;Exec-managerial;Not-in-family;White;Female;0;1741;40;United-States;<=50K

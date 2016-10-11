@@ -1,0 +1,2 @@
+47;Private;177087;HS-grad;9;Widowed;Exec-managerial;Not-in-family;White;Female;0;2444;50;United-States;>50K
+39;Private;113725;Masters;14;Divorced;Exec-managerial;Not-in-family;White;Female;8614;0;40;United-States;>50K

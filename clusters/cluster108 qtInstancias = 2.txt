@@ -1,0 +1,2 @@
+44;Private;172600;HS-grad;9;Never-married;Sales;Not-in-family;White;Female;10520;0;50;United-States;>50K
+23;Private;442359;HS-grad;9;Never-married;Sales;Own-child;White;Female;8614;0;15;United-States;>50K

@@ -1,0 +1,1 @@
+30;Self-emp-not-inc;164461;11th;7;Divorced;Sales;Unmarried;White;Male;0;653;40;United-States;<=50K
