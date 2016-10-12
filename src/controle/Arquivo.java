@@ -14,6 +14,7 @@ public class Arquivo {
 	
 	File arquivo = new File("entrada.txt");
 	HashMap<String, ArrayList<Instancia>> mapeiaCluster = new HashMap<String, ArrayList<Instancia>>();
+	HashMap<Integer,Integer> qtEscritos = new HashMap<Integer,Integer>();
 	
 	public Arquivo() {
 		lerArquivo();
@@ -69,6 +70,15 @@ public class Arquivo {
 		
 		File arquivo = new File("clusters/"+nomeDoArquivo+" qtInstancias = "+instancias.size()+".txt");
 		
+		if(instancias.size() <= 3){
+			
+			if(qtEscritos.get(instancias.size()) == null)
+				qtEscritos.put(instancias.size(), 0);
+			
+			arquivoPoucasInstancias(nomeDoArquivo, instancias.size());
+			qtEscritos.put(instancias.size(), qtEscritos.get(instancias.size())+1);
+		}
+		
 		if (!arquivo.exists()) {
 			arquivo.createNewFile();
 		}
@@ -104,8 +114,11 @@ public class Arquivo {
 				FileWriter fw = new FileWriter(arquivo, true);
 				BufferedWriter bw = new BufferedWriter(fw);
 				
-				bw.write(s+" : "+conjuntos.get(s).toString());
-				bw.newLine();
+				if(conjuntos.get(s).size() <= 3){
+					bw.write(s+" : "+conjuntos.get(s).toString());
+					bw.newLine();
+				}
+				
 				
 				
 				bw.close();
@@ -113,6 +126,32 @@ public class Arquivo {
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
+		}
+	}
+	
+	public void arquivoPoucasInstancias(String nomeCluster, int qtInstancias) throws IOException {
+		
+		File arquivo = new File("poucasInstancias "+qtInstancias+".txt");
+		
+		if (!arquivo.exists()) {
+			arquivo.createNewFile();
+		}
+		
+		try {
+			FileWriter fw = new FileWriter(arquivo, true);
+			BufferedWriter bw = new BufferedWriter(fw);
+			
+			bw.write(nomeCluster+", ");
+			
+			if(qtEscritos.get(qtInstancias)%6 == 0 && qtEscritos.get(qtInstancias) != 0)
+				bw.newLine();
+			
+			
+			
+			bw.close();
+			fw.close();
+		} catch (IOException e) {
+			e.printStackTrace();
 		}
 	}
 
